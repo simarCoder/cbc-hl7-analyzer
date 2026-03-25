@@ -6,3 +6,4 @@ build/
 dist/
 temp_images/
 PDF_Reports/
+*.dat
