@@ -51,6 +51,8 @@ python main.py
 ![login Screen](screenshots/login_screen.png)
 ![Config Screen](screenshots/config_screen.png)
 
+```
+
 ---
 
 ## 🎯 Purpose
