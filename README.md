@@ -47,9 +47,9 @@ python main.py
 ```md
 ## 📸 Screenshots
 
-![Main UI](screenshots/main.png)
-![Parsed Data](screenshots/data.png)
-![Report](screenshots/report.png)
+![Main UI](screenshots/main_screen.png)
+![login Screen](screenshots/login_screen.png)
+![Config Screen](screenshots/config_screen.png)
 
 ---
 
