@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.db
+*.xlsx
+build/
+dist/
+temp_images/
+PDF_Reports/

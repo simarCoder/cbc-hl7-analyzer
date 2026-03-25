@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="logoFile">
+    <file>operon.png</file>
+    <file>Nova_sol.png</file>
+  </qresource>
+</RCC>
